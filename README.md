@@ -38,9 +38,9 @@
 
 ## Contents
 
-- Tutorials
+- [Tutorials](tutorials)
 
-- [How-to guides](how-to-guides)
+- How-to guides
 
 - Conceptual guide
 
