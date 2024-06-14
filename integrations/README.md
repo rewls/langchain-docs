@@ -12,3 +12,7 @@
 |-|-|-|-|-|-|
 |[ChatGoogleGenerativeAI](chat-google-generative-ai)|O|X|X|X|langchain-google-genai|
 |ChatVertexAI|O|O|X|X|langchain-google-vertexai|
+
+#### Embedding models
+
+- [Google Generative AI Embeddings](google-generative-ai-embeddings)
