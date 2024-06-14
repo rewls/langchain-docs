@@ -40,7 +40,7 @@
 
 - Tutorials
 
-- How-to guides
+- [How-to guides](how-to-guides)
 
 - Conceptual guide
 
